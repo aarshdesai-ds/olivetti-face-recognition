@@ -84,33 +84,13 @@ The dataset includes:
 
 ## 🚀 How to Run
 
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/aarshdesai-ds/olivetti-face-recognition.git
-cd olivetti-face-recognition
-
-2. **Install dependencies**
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Download dataset
-
-Place these files inside a /data folder:
-
-augmented_faces.npy
-
-augmented_labels.npy
-From: Kaggle Dataset
-
-Launch notebook
-
-bash
-Copy
-Edit
+Clone this repository
+git clone https://github.com/<your-username>/diamond-price-prediction.git
+Launch the notebook
 jupyter notebook face-recognition.ipynb
+Run all cells to reproduce the workflow and results
+
+
 
 ## ✅ Key Takeaways
 SVM provided outstanding classification accuracy and generalization
