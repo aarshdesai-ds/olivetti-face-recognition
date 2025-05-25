@@ -84,11 +84,13 @@ The dataset includes:
 
 ## 🚀 How to Run
 
-Clone this repository
-git clone https://github.com/<your-username>/diamond-price-prediction.git
-Launch the notebook
-jupyter notebook face-recognition.ipynb
-Run all cells to reproduce the workflow and results
+1. Clone this repository  
+   `git clone https://github.com/<your-username>/diamond-price-prediction.git`
+2. Launch the notebook  
+   `jupyter notebook face-recognition.ipynb`
+3. Run all cells to reproduce the workflow and results
+
+---
 
 
 
