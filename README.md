@@ -85,7 +85,7 @@ The dataset includes:
 ## 🚀 How to Run
 
 1. Clone this repository  
-   `git clone https://github.com/<your-username>/diamond-price-prediction.git`
+   `git clone https://github.com/aarshdesai-ds/olivetti-face-recognition.git`
 2. Launch the notebook  
    `jupyter notebook face-recognition.ipynb`
 3. Run all cells to reproduce the workflow and results
